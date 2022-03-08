@@ -1,0 +1,19 @@
+{
+    "name": "abdullah.rahim/scrapper-client",
+    "description": "Client for my google scrapper",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AbdullahRahim\\ScrapperClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdullah.rahim",
+            "email": "abdullah.rahim@seera.sa"
+        }
+    ],
+    "require": {
+        "abdullah.rahim/google-scrapper-package": "dev-main"
+    }
+}

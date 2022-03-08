@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "af6c7295d5aba177c9104f49a8c987b3",
+    "packages": [
+        {
+            "name": "abdullah.rahim/google-scrapper-package",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/abdullahrahimseera/google-scrapper-package.git",
+                "reference": "50abc80cde2ff092a4d83c5e8c4637663cbbdbaf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/abdullahrahimseera/google-scrapper-package/zipball/50abc80cde2ff092a4d83c5e8c4637663cbbdbaf",
+                "reference": "50abc80cde2ff092a4d83c5e8c4637663cbbdbaf",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AbdullahRahim\\GoogleScrapperPackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "abdullah.rahim",
+                    "email": "abdullah.rahim@seera.sa"
+                }
+            ],
+            "description": "This is a package which contains libraries to scrap google result.",
+            "support": {
+                "issues": "https://github.com/abdullahrahimseera/google-scrapper-package/issues",
+                "source": "https://github.com/abdullahrahimseera/google-scrapper-package/tree/main"
+            },
+            "time": "2022-03-08T17:55:47+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "abdullah.rahim/google-scrapper-package": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
